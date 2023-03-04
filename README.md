@@ -4,12 +4,18 @@ Here in this repository are all of the articles I've published, arranged into ca
 <!-- Image in the right -->
 
 <img boder="2px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height="300px" align="right" alt="Error to load the image">
+
 <!-- Article -->
 <hr>
+
+<!Linux Articles -->
+
 Linux Series: 
 
-1) [Customize Your PopOS! (Part-1)](https://tripur.hashnode.dev/customize-your-popos-part-1)
+1) [Customize Your PopOS!](https://tripur.hashnode.dev/customize-your-popos)
 <hr>
+
+<!GitHub Articles -->
 
 Github Series:
 1) [A Guide to GitHub Pull Requests](https://tripur.hashnode.dev/a-guide-to-github-pull-requests)
