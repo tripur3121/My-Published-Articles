@@ -13,6 +13,7 @@ Here in this repository are all of the articles I've published, arranged into ca
 Linux Series: 
 
 1) [Customize Your PopOS!](https://tripur.hashnode.dev/customize-your-popos)
+2) [Get Started with Jupyter Notebook on Linux/PopOS!: A Complete Setup Guide](https://tripur.hashnode.dev/get-started-with-jupyter-notebook-on-linuxpopos-a-complete-setup-guide)
 <hr>
 
 <!GitHub Articles -->
